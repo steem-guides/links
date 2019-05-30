@@ -31,7 +31,11 @@
 ## 人物
 
 ### 中文区
-  - 新手村访谈：https://steemblog.github.io/@team-cn/tags/cn-interview/
-[@steem-guides](https://busy.org/@steem-guides).
+  - [新手村访谈](https://steemblog.github.io/@team-cn/tags/cn-interview/)
+
+## 活动
+
+### 活动发布
+  - [cn-activity](https://busy.org/@cn-activity)
 
 
