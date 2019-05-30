@@ -25,7 +25,9 @@
 ## 书籍
 
 ### Steem指南
-  - [https://steem-guides.github.io/steemh/](https://steem-guides.github.io/steemh/)
+  - 书籍链接：[https://steem-guides.github.io/steemh/](https://steem-guides.github.io/steemh/)
+    - [PDF版本](https://steem-guides.github.io/steemh/steemh.pdf)
+    - [EPUB版本](https://steem-guides.github.io/steemh/steemh.epub)
 
 
 ## 人物
