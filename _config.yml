@@ -19,9 +19,12 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/links" # the subpath of your site, e.g. /blog
 url: "https://steem-guides.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
+logo: https://avatars1.githubusercontent.com/u/48999267?s=200&v=4
+show_downloads: false
+
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal # cayman | leap-day
 # plugins:
 #   - jekyll-feed
 
