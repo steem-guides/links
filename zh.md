@@ -1,9 +1,5 @@
 本页面用于记录 steem 中的常用链接。本页面由 [@steem-guides](https://busy.org/@steem-guides) 创建和维护，欢迎提交 pull requests 修改。
 
-类型 | 名称 | 链接 | 说明
--- | -- | -- | --
-平台 | Steem Engine | 
-
 
 ## 平台
 
