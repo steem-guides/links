@@ -1,4 +1,4 @@
-本页面用于记录 steem 中的常用链接。本页面由 [@steem-guides](https://busy.org/@steem-guides) 创建和维护，欢迎提交 pull requests 修改。
+本页面用于记录 Steem 中的 **常用链接**，由 [@steem-guides](https://busy.org/@steem-guides) 创建和维护，欢迎在 GitHub [编辑](https://github.com/steem-guides/links/edit/master/zh.md) 或 [提交建议](https://github.com/steem-guides/links/issues/new)。
 
 
 ## 平台
@@ -26,8 +26,9 @@ wherein | [http://www.wherein.io/](http://www.wherein.io/)
 名称 | 链接 | 说明
 -- | -- | --
 steemd | [https://steemd.com](https://steemd.com) | 举例：[https://steemd.com/@robertyan](https://steemd.com/@robertyan)
-Steem World | [https://steemworld.com](https://steemworld.com) | 举例：[https://steemworld.com/@robertyan](https://steemworld.com/@robertyan)
-Steem Keychain | 安装：[Chrome 或 Brave](https://chrome.google.com/webstore/detail/steem-keychain/lkcjlnjfpbikmcmbachjpdbijejflpcm) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/steem-keychain/)
+steem world | [https://steemworld.com](https://steemworld.com) | 举例：[https://steemworld.com/@robertyan](https://steemworld.com/@robertyan)
+steem keychain | 安装：[Chrome 或 Brave](https://chrome.google.com/webstore/detail/steem-keychain/lkcjlnjfpbikmcmbachjpdbijejflpcm) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/steem-keychain/)
+steemyy | [https://steemyy.com/](https://steemyy.com/) | 由 [@justyy](https://busy.org/@justyy) 开发的工具集
 steemblog | [https://steemblog.github.io/](https://steemblog.github.io/) | 举例：[https://steemblog.github.io/@team-cn](https://steemblog.github.io/@team-cn)
 
 
