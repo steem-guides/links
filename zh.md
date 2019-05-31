@@ -31,6 +31,19 @@ steem keychain | 安装：[Chrome 或 Brave](https://chrome.google.com/webstore/
 steemyy | [https://steemyy.com/](https://steemyy.com/) | 由 [@justyy](https://busy.org/@justyy) 开发的工具集
 steemblog | [https://steemblog.github.io/](https://steemblog.github.io/) | 举例：[https://steemblog.github.io/@team-cn](https://steemblog.github.io/@team-cn)
 
+## 数据
+
+名称 | 链接 | 说明
+-- | -- | --
+Steem统计数据报告 | [https://busy.org/@arcange](https://busy.org/@arcange) | Steem Statistics
+
+
+## 应用
+
+名称 | 链接 | 说明
+-- | -- | --
+SCT | [https://www.steemcoinpan.com](https://www.steemcoinpan.com) | 
+
 
 ## 教程
 
