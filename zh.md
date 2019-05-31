@@ -26,6 +26,7 @@ steemblog | [https://steemblog.github.io/](https://steemblog.github.io/) | 举�
 名称 | 链接 | 说明
 -- | -- | --
 《Steem指南》 | [https://steem-guides.github.io/steemh/](https://steem-guides.github.io/steemh/) | [PDF版本](https://steem-guides.github.io/steemh/steemh.pdf) / [EPUB版本](https://steem-guides.github.io/steemh/steemh.epub)
+《如果我是一条小鱼》| [https://busy.org/@ericet/db528bhdn3](https://busy.org/@ericet/db528bhdn3) | 
 
 
 ## 人物
