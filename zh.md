@@ -1,4 +1,4 @@
-本页面用于记录 Steem 中的 **常用链接**，由 [@steem-guides](https://busy.org/@steem-guides) 创建和维护，欢迎在 GitHub [编辑](https://github.com/steem-guides/links/edit/master/zh.md) 或 [提交建议](https://github.com/steem-guides/links/issues/new)。
+[本页面](https://steem-guides.github.io/links/zh)用于记录 Steem 中的 **常用链接**，由 [@steem-guides](https://busy.org/@steem-guides) 创建和维护，欢迎在 GitHub [编辑](https://github.com/steem-guides/links/edit/master/zh.md) 或 [提交建议](https://github.com/steem-guides/links/issues/new)。
 
 
 ## 平台
@@ -14,11 +14,11 @@ VP | https://economicstudio.github.io/vp/a={username}&t={token} | 举例: [https
 
 名称 | 链接 | 说明
 -- | -- | --
-busy | [https://busy.org](https://busy.org) | 
-steempeak | [https://steempeak.com](https://steempeak.com) | 
-partiko | [https://partiko.app](https://partiko.app)
-esteem | [https://esteem.app/](https://esteem.app/)
-wherein | [http://www.wherein.io/](http://www.wherein.io/)
+busy | [https://busy.org](https://busy.org) | 网页端
+steempeak | [https://steempeak.com](https://steempeak.com) | 网页端
+partiko | [https://partiko.app](https://partiko.app) | 移动端
+esteem | [https://esteem.app/](https://esteem.app/) | 移动端
+wherein | [http://www.wherein.io/](http://www.wherein.io/) | 移动端
 
 
 ## 工具
