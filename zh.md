@@ -25,21 +25,22 @@ steemblog | [https://steemblog.github.io/](https://steemblog.github.io/) | 举�
 
 名称 | 链接 | 说明
 -- | -- | --
-Steem指南 | [https://steem-guides.github.io/steemh/](https://steem-guides.github.io/steemh/) | [PDF版本](https://steem-guides.github.io/steemh/steemh.pdf) / [EPUB版本](https://steem-guides.github.io/steemh/steemh.epub)
+《Steem指南》 | [https://steem-guides.github.io/steemh/](https://steem-guides.github.io/steemh/) | [PDF版本](https://steem-guides.github.io/steemh/steemh.pdf) / [EPUB版本](https://steem-guides.github.io/steemh/steemh.epub)
 
 
 ## 人物
 
 名称 | 链接 | 说明
 -- | -- | --
-新手村访谈 | [新手村访谈](https://steemblog.github.io/@team-cn/tags/cn-interview/) | 
+《Steem指北》| [https://steem-guides.github.io/steemh/fl.html](https://steem-guides.github.io/steemh/fl.html) | 
+新手村访谈 | [https://steemblog.github.io/@team-cn/tags/cn-interview/](https://steemblog.github.io/@team-cn/tags/cn-interview/) | 
 
 
 ## 活动
 
 名称 | 链接 | 说明
 -- | -- | --
-cn-activity | [cn-activity](https://busy.org/@cn-activity) | 
+cn-activity | [https://busy.org/@cn-activity](https://busy.org/@cn-activity) | 
 
 
 
