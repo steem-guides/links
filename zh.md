@@ -35,7 +35,7 @@ steemblog | [https://steemblog.github.io/](https://steemblog.github.io/) | 举�
 
 名称 | 链接 | 说明
 -- | -- | --
-Steem统计数据报告 | [https://busy.org/@arcange](https://busy.org/@arcange) | Steem Statistics
+Steem统计数据报告 | [https://busy.org/@arcange](https://busy.org/@arcange) | Steem Statistics 举例：[https://busy.org/@arcange/steem-statistics-20190530-en#comments](https://busy.org/@arcange/steem-statistics-20190530-en#comments)
 
 
 ## 应用 / dApp
