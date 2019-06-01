@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 3.8.5"
 
 # theme
-gem "jekyll-theme-minimal"
+gem "jekyll-theme-leap-day"
 
 
 
