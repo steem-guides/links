@@ -24,7 +24,7 @@ show_downloads: false
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-leap-day # cayman | minimal
+theme: jekyll-theme-primer # cayman | minimal | leap-day | slate
 # plugins:
 #   - jekyll-feed
 
