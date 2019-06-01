@@ -70,6 +70,7 @@ cn-activity | [https://busy.org/@cn-activity](https://busy.org/@cn-activity) |
 -- | -- | --
 《Steem指北》| [https://steem-guides.github.io/steemh/fl.html](https://steem-guides.github.io/steemh/fl.html) | 
 新手村访谈 | [https://steemblog.github.io/@team-cn/tags/cn-interview/](https://steemblog.github.io/@team-cn/tags/cn-interview/) | 
+花名册 | [https://steem-guides.github.io/roster/](https://steem-guides.github.io/roster/) | 
 
 
 
