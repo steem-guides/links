@@ -10,6 +10,7 @@
 Wallet | [https://steem-engine.com/?p=balances](https://steem-engine.com/?p=balances) | 举例：[https://steem-engine.com/?p=balances&a=robertyan](https://steem-engine.com/?p=balances&a=robertyan)
 VP | https://economicstudio.github.io/vp/a={username}&t={token} | 举例: [https://economicstudio.github.io/vp/?a=robertyan&t=SCT](https://economicstudio.github.io/vp/?a=robertyan&t=SCT)
 
+
 ## 2. 客户端
 
 名称 | 链接 | 说明
@@ -31,6 +32,7 @@ steem keychain | 安装：[Chrome 或 Brave](https://chrome.google.com/webstore/
 steemyy | [https://steemyy.com/](https://steemyy.com/) | 由 [@justyy](https://busy.org/@justyy) 开发的工具集
 steemblog | [https://steemblog.github.io/](https://steemblog.github.io/) | 举例：[https://steemblog.github.io/@team-cn](https://steemblog.github.io/@team-cn)
 
+
 ## 4. 数据
 
 名称 | 链接 | 说明
@@ -45,7 +47,14 @@ Steem统计数据报告 | [https://busy.org/@arcange](https://busy.org/@arcange)
 SCT | [https://www.steemcoinpan.com](https://www.steemcoinpan.com) | 
 
 
-## 6. 教程
+## 6. 活动
+
+名称 | 链接 | 说明
+-- | -- | --
+cn-activity | [https://busy.org/@cn-activity](https://busy.org/@cn-activity) | 
+
+
+## 7. 教程
 
 名称 | 链接 | 说明
 -- | -- | --
@@ -53,7 +62,8 @@ SCT | [https://www.steemcoinpan.com](https://www.steemcoinpan.com) |
 《如果我是一条小鱼》| [https://busy.org/@ericet/db528bhdn3](https://busy.org/@ericet/db528bhdn3) | 
 
 
-## 7. 人物
+
+## 8. 人物
 
 名称 | 链接 | 说明
 -- | -- | --
@@ -61,11 +71,9 @@ SCT | [https://www.steemcoinpan.com](https://www.steemcoinpan.com) |
 新手村访谈 | [https://steemblog.github.io/@team-cn/tags/cn-interview/](https://steemblog.github.io/@team-cn/tags/cn-interview/) | 
 
 
-## 8. 活动
 
-名称 | 链接 | 说明
--- | -- | --
-cn-activity | [https://busy.org/@cn-activity](https://busy.org/@cn-activity) | 
+
+
 
 
 
