@@ -16,9 +16,9 @@ VP | https://economicstudio.github.io/vp/a={username}&t={token} | 举例: [https
 -- | -- | --
 busy | [https://busy.org](https://busy.org) | 网页端
 steempeak | [https://steempeak.com](https://steempeak.com) | 网页端
-partiko | [https://partiko.app](https://partiko.app) | 移动端
-esteem | [https://esteem.app/](https://esteem.app/) | 移动端
-wherein | [http://www.wherein.io/](http://www.wherein.io/) | 移动端
+partiko | [https://partiko.app](https://partiko.app) | 移动端；[APK - 1.3](https://d1vof77qrk4l5q.cloudfront.net/apk/partiko-1.3.0.2.apk)
+esteem | [https://esteem.app/](https://esteem.app/) | 移动端；[APK - 2.1](https://share7.heiluo.com/share/download?type=1&shareId=f312dd9ece9f417991844a57e9d44568&fileId=2825511)
+wherein | [http://www.wherein.io/](http://www.wherein.io/) | 移动端；[APK - 最新](http://newappaz.oss-cn-hongkong.aliyuncs.com/app-wherein.apk)
 
 
 ## 工具
