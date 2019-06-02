@@ -18,9 +18,9 @@ VP | https://economicstudio.github.io/vp/a={username}&t={token} | 举例: [https
 -- | -- | --
 busy | [https://busy.org](https://busy.org) | 网页端
 steempeak | [https://steempeak.com](https://steempeak.com) | 网页端
-partiko | [https://partiko.app](https://partiko.app) | 移动端；[APK - 1.3](https://d1vof77qrk4l5q.cloudfront.net/apk/partiko-1.3.0.2.apk)
-esteem | [https://esteem.app/](https://esteem.app/) | 移动端；[APK - 2.1](https://share7.heiluo.com/share/download?type=1&shareId=f312dd9ece9f417991844a57e9d44568&fileId=2825511)
-wherein | [http://www.wherein.io/](http://www.wherein.io/) | 移动端；[APK - 最新](http://newappaz.oss-cn-hongkong.aliyuncs.com/app-wherein.apk)
+partiko | [https://partiko.app](https://partiko.app) | 移动端: [APK - 1.3](https://d1vof77qrk4l5q.cloudfront.net/apk/partiko-1.3.0.2.apk)
+esteem | [https://esteem.app/](https://esteem.app/) | 移动端: [APK - 2.1](https://share7.heiluo.com/share/download?type=1&shareId=f312dd9ece9f417991844a57e9d44568&fileId=2825511); PC: [Windows - 2.1](http://20425412.169.ctc.data.tv002.com/down/f24499ec8e48b3728d5a64126fb619b7/esteem-surfer-setup-2.1.0.exe?cts=dx-f-D122A234A136A225U20425412&ctp=122A234A136A225&ctt=1559514403&limit=1&spd=230000&ctk=f24499ec8e48b3728d5a64126fb619b7&chk=82e982ed1d695d3e318a92ed62816a01-81883392&mtd=1)
+wherein | [http://www.wherein.io/](http://www.wherein.io/) | 移动端: [APK - 最新](http://newappaz.oss-cn-hongkong.aliyuncs.com/app-wherein.apk)
 
 
 ## 3. 工具
