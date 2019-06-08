@@ -34,6 +34,7 @@ steem world | [https://steemworld.com](https://steemworld.com) | 举例：[https
 steem keychain | 安装：[Chrome 或 Brave](https://chrome.google.com/webstore/detail/steem-keychain/lkcjlnjfpbikmcmbachjpdbijejflpcm) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/steem-keychain/) | steem 钱包和登录插件
 steemyy | [https://steemyy.com/](https://steemyy.com/) | 由 [@justyy](https://busy.org/@justyy) 开发的工具集
 steemblog | [https://steemblog.github.io/](https://steemblog.github.io/) | 举例：[https://steemblog.github.io/@team-cn](https://steemblog.github.io/@team-cn)
+blacklist | http://blacklist.usesteem.com/user/<id> | 举例：[http://blacklist.usesteem.com/user/robertyan](http://blacklist.usesteem.com/user/robertyan)
 
 
 ## 4. 数据
