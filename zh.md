@@ -7,7 +7,7 @@
 
 名称 | 链接 | 说明
 -- | -- | --
-Steem Engine | [CN版本](https://priceless-goldberg-3807b1.netlify.com) | CN区专用
+Steem Engine CN版 | [https://steem-engine.netlify.com](https://steem-engine.netlify.com) | CN区专用
 Wallet | [https://steem-engine.com/?p=balances](https://steem-engine.com/?p=balances) | 举例：[https://steem-engine.com/?p=balances&a=robertyan](https://steem-engine.com/?p=balances&a=robertyan)
 Market | https://steem-engine.com/?p=market&t={token} | 举例: [https://steem-engine.com/?p=market&t=SCT](https://steem-engine.com/?p=market&t=SCT)
 VP | https://economicstudio.github.io/vp/a={username}&t={token} | 举例: [https://economicstudio.github.io/vp/?a=robertyan&t=SCT](https://economicstudio.github.io/vp/?a=robertyan&t=SCT)
