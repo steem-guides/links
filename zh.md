@@ -8,7 +8,7 @@
 名称 | 链接 | 说明
 -- | -- | --
 Steem Engine CN版 | [https://steem-engine.netlify.com](https://steem-engine.netlify.com) | CN区专用
-Block Explorer | [https://steem-engine.rocks](https://steem-engine.rocks) | 
+Block Explorer | [https://steem-engine.rocks](https://steem-engine.rocks) | steem-engine的steemd
 Token的动态 | [https://steem-engine.rocks/transactions?symbol={token}](https://steem-engine.rocks/transactions?symbol={token}) | 举例：[https://steem-engine.rocks/transactions?symbol=SCT](https://steem-engine.rocks/transactions?symbol=SCT)
 账户的动态 | [https://steem-engine.rocks/@{id}](https://steem-engine.rocks/@{id}) | 举例：[https://steem-engine.rocks/@ericet](https://steem-engine.rocks/@ericet)
 Token的持有和锁仓 | [https://steem-engine.rocks/tokens/{token}/richlist](https://steem-engine.rocks/tokens/{token}/richlist) | 举例：[https://steem-engine.rocks/tokens/{NBC}/richlist](https://steem-engine.rocks/tokens/{NBC}/richlist)
