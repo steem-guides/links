@@ -40,6 +40,7 @@ steem keychain | 安装：[Chrome 或 Brave](https://chrome.google.com/webstore/
 steemyy | [https://steemyy.com/](https://steemyy.com/) | 由 [@justyy](https://busy.org/@justyy) 开发的工具集
 steemblog | [https://steemblog.github.io/](https://steemblog.github.io/) | 举例：[https://steemblog.github.io/@team-cn](https://steemblog.github.io/@team-cn)
 blacklist | http://blacklist.usesteem.com/user/<id> | 举例：[http://blacklist.usesteem.com/user/robertyan](http://blacklist.usesteem.com/user/robertyan)
+delegate | [https://steemyy.com/sp-delegate-form/](https://steemyy.com/sp-delegate-form/) | 
 
 
 ## 4. 数据
