@@ -48,6 +48,7 @@ delegate | [https://steemyy.com/sp-delegate-form/](https://steemyy.com/sp-delega
 名称 | 链接 | 说明
 -- | -- | --
 Steem统计数据报告 | [https://busy.org/@arcange](https://busy.org/@arcange) | Steem Statistics 举例：[https://busy.org/@arcange/steem-statistics-20190530-en#comments](https://busy.org/@arcange/steem-statistics-20190530-en#comments)
+SCT Manager | [https://passionbull.github.io/scot-manager/](https://passionbull.github.io/scot-manager/) | 
 
 
 ## 5. 应用 / dApp
