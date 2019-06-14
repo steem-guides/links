@@ -70,6 +70,7 @@ cn-activity | [https://busy.org/@cn-activity](https://busy.org/@cn-activity) |
 名称 | 链接 | 说明
 -- | -- | --
 《Steem指南》 | [https://steem-guides.github.io/steemh/](https://steem-guides.github.io/steemh/) | [PDF版本](https://steem-guides.github.io/steemh/steemh.pdf) / [EPUB版本](https://steem-guides.github.io/steemh/steemh.epub)
+《Steem Engine手册》 | [https://steem-guides.github.io/steem-engine/](https://steem-guides.github.io/steem-engine/) | [PDF版本](https://steem-guides.github.io/steem-engine/steem-engine.pdf) / [EPUB版本](https://steem-guides.github.io/steem-engine/steem-engine.epub)
 《如果我是一条小鱼》| [https://busy.org/@ericet/db528bhdn3](https://busy.org/@ericet/db528bhdn3) | 
 
 
