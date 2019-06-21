@@ -37,6 +37,7 @@ wherein | [http://www.wherein.io/](http://www.wherein.io/) | 移动端: [APK - �
 steemd | [https://steemd.com](https://steemd.com) | 举例：[https://steemd.com/@robertyan](https://steemd.com/@robertyan)
 steem world | [https://steemworld.com](https://steemworld.com) | 举例：[https://steemworld.com/@robertyan](https://steemworld.com/@robertyan)
 steem keychain | 安装：[Chrome 或 Brave](https://chrome.google.com/webstore/detail/steem-keychain/lkcjlnjfpbikmcmbachjpdbijejflpcm) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/steem-keychain/) | steem 钱包和登录插件
+steem auto | [http://steemauto.com/](http://steemauto.com/) | 自动点赞、自动领取奖励等
 steemyy | [https://steemyy.com/](https://steemyy.com/) | 由 [@justyy](https://busy.org/@justyy) 开发的工具集
 steemblog | [https://steemblog.github.io/](https://steemblog.github.io/) | 举例：[https://steemblog.github.io/@team-cn](https://steemblog.github.io/@team-cn)
 blacklist | http://blacklist.usesteem.com/user/<id> | 举例：[http://blacklist.usesteem.com/user/robertyan](http://blacklist.usesteem.com/user/robertyan)
