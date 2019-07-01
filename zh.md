@@ -45,6 +45,7 @@ steemblog | [https://steemblog.github.io/](https://steemblog.github.io/) | 举�
 blacklist | http://blacklist.usesteem.com/user/<id> | 举例：[http://blacklist.usesteem.com/user/robertyan](http://blacklist.usesteem.com/user/robertyan)
 delegate | [https://steemyy.com/sp-delegate-form/](https://steemyy.com/sp-delegate-form/) | 
 witness | [https://steemian.info/witnesses](https://steemian.info/witnesses) | 
+post history | [https://scribe.steemian.info/](https://scribe.steemian.info/)
 
 
 ## 4. 数据
